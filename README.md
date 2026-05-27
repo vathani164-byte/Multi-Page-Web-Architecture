@@ -1,1 +1,1 @@
-# Multi-Page-Web-Architecture
+# Multi-Page Web Architecture
